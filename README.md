@@ -10,5 +10,5 @@ The data and objectives of the project were sourced from: https://github.com/Kei
 - How to change the datatype of a column.
 - Adding new column to a DataFrame.
 - The importance of breaking up the question at hand into sub tasks.
-- How to use the .groupby(), to_datetime(), apply() and .transform() methods.
+- How to use the .groupby(), to_datetime(), apply(), .transform() and drop_duplicates methods.
 
