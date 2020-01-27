@@ -4,4 +4,4 @@ This was an excellent oppportunity to apply my learnings with regard to python, 
 
 The data and objectives of the project were sourced from: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
-
+<b>What I learned</b>
