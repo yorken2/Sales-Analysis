@@ -1,6 +1,6 @@
 # Sales-Analysis
-This contains a side-project of some analysis on sample sales data over 12 months on electronic products. 
-This was an excellent oppportunity to apply my learnings with regard to python, pandas and matplotlib.
+This contains some analysis on sample sales data over 12 months on electronic products. 
+The aim of this analysis was to apply my learnings with regard to python, pandas and matplotlib to sample data.
 
 The objectives of the project were sourced from: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
